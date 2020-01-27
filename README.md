@@ -1,68 +1,82 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Elevate v.1 React -Template
 
-## Available Scripts
+- **Responsive Template made with React only**
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## Quick Links
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Demo](#demo)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+- [Picture](#picture-demo)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Tech Stack](#tech-stack)
 
-### `yarn build`
+[About](#Implementation Highlights)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Current components on this template](#Current-components-on-this-template)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+[Author](#author)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[License](#license)
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Picture Demo
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![demopng](vanilla-react.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tech Stack
 
-## Learn More
+- [React](https://github.com/facebook/react) 
+  - Create-react-app with highly complex frontend structure
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Implementation Highlights
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Responsive Template made with advanced react Js.
 
-### Code Splitting
+### Full Responsive Portfolio React Template
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Full responsive for all mobile phones and tablets
 
-### Analyzing the Bundle Size
+### Current components on this template
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Navigation section.
+- Home section.
+- Services section.
+- Portfolio with pictures gallery section.
+- Our Story section.
+- Contact Us with google Map section.
+- Footer section.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Author
 
-### Advanced Configuration
+- Rodolphe Augusto
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+---
 
-### Deployment
+## License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- MIT.
 
-### `yarn build` fails to minify
+---
+## Inspiration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+-TemplateMo.com
+
+## Start project
+- Clone this repo https://github.com/rodolphe37/vanilla-react-template.git
+- Do in the console :
+-    ```cd vanilla-react-template```
+-    ``` npm i``` or ```npm install ```
+to install the dependencies and 
+-    ```npm start```
+to start project for personalisation.
+
+enjoy!!!
