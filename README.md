@@ -1,4 +1,4 @@
-# Elevate v.1 React -Template
+# Vanilla v.1 React -Template
 
 - **Responsive Template made with React only**
 
